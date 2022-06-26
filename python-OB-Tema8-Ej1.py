@@ -6,3 +6,5 @@
 
 f = open("archivoTexto.txt", "r")
 print(f.read())
+
+f.close()
