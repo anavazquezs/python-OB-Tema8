@@ -1,0 +1,6 @@
+Titulo: Como manejar archivos en Python: 
+Este es el primer parrafo de. contenido. En punto y seguido continúa por aca. 
+Este es el ultimo parrafo.
+Titulo: Como manejar archivos en Python: 
+Este es el primer parrafo de. contenido. En punto y seguido continúa por aca. 
+Este es el ultimo parrafo.
