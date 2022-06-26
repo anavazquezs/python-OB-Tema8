@@ -23,8 +23,10 @@ miAuto1 = Vehiculo('Fiat', '2020', 10000)
 f = open('datosVehiculo.bin', 'rb')
 
 miAuto1 = pickle.load(f)
-f.close()
+
 
 print(type(miAuto1))
 
 print(miAuto1.getMarca())
+
+f.close()
